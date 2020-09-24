@@ -1,0 +1,1 @@
+char recupererCaractere(char *pointeurSurlettre);
